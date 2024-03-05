@@ -71125,7 +71125,7 @@ case 2:c.Iq("Int","selectedTerminal",a)
 return A.S(null,r)}})
 return A.T($async$t9,r)},
 O(a){var s,r=null,q=t.F
-q=A.a([B.MY,this.Ur(),new A.f7(B.kI,A.iE(A.a([B.MV,B.MF,B.MP,B.MW,A.pt(r,A.bN(a,r,t.w).w.a.b*0.05,r),B.N6,B.N2,B.N_,B.MS,B.MI],q),B.fV,B.ax,B.aj,B.az),r)],q)
+q=A.a([B.MZ,this.Ur(),new A.f7(B.kI,A.iE(A.a([B.MW,B.MF,B.MP,B.MX,A.pt(r,A.bN(a,r,t.w).w.a.b*0.05,r),B.N6,B.N2,B.N0,B.MT,B.MI],q),B.fV,B.ax,B.aj,B.az),r)],q)
 s=A.aK([null,0],t.LO,t.S)
 return new A.CK(new A.uo(new A.a22(!0,!0,!0,q,s),B.AK,B.aM,!1,r,r,B.ji,!1,r,3,B.aC,B.vp,r,B.ar,r),r)},
 Ur(){var s,r,q,p,o,n,m=this,l=null,k=m.c
@@ -71141,8 +71141,8 @@ q[p]=p===(o===$?m.d=0:o)}r=A.ade(10)
 n=t.F
 s=A.a([B.iI,A.pt(new A.HE(B.CN,q,new A.a5Q(m),B.iP,B.qe,B.bx,A.I(B.c.ai(25.5),33,150,243),B.bx,B.bx,2,r,l),k.a.b*0.05,s.a.a*0.5),B.iI],n)
 if(m.ghh()===0)s.push(A.iE(A.a([A.cW(l,new A.a5R(m),l,B.MN),A.cW(l,new A.a5S(m),l,B.ME),A.cW(l,new A.a61(m),l,B.N3),A.cW(l,new A.a62(m),l,B.MM),A.cW(l,new A.a63(m),l,B.MO),A.cW(l,new A.a64(m),l,B.iR),A.cW(l,new A.a65(m),l,B.iS)],n),B.ah,B.ax,B.aj,B.az))
-if(m.ghh()===1)s.push(A.iE(A.a([A.cW(l,new A.a66(m),l,B.N5),A.cW(l,new A.a67(m),l,B.MH),A.cW(l,new A.a68(m),l,B.MX),A.cW(l,new A.a5T(m),l,B.MG),A.cW(l,new A.a5U(m),l,B.MJ),A.cW(l,new A.a5V(m),l,B.iR),A.cW(l,new A.a5W(m),l,B.iS)],n),B.ah,B.ax,B.aj,B.az))
-if(m.ghh()===2)s.push(A.iE(A.a([A.cW(l,new A.a5X(m),l,B.N4),A.cW(l,new A.a5Y(m),l,B.MU),A.cW(l,new A.a5Z(m),l,B.MK),A.cW(l,new A.a6_(m),l,B.iR),A.cW(l,new A.a60(m),l,B.iS)],n),B.ah,B.ax,B.aj,B.az))
+if(m.ghh()===1)s.push(A.iE(A.a([A.cW(l,new A.a66(m),l,B.N5),A.cW(l,new A.a67(m),l,B.MH),A.cW(l,new A.a68(m),l,B.MY),A.cW(l,new A.a5T(m),l,B.MG),A.cW(l,new A.a5U(m),l,B.MJ),A.cW(l,new A.a5V(m),l,B.iR),A.cW(l,new A.a5W(m),l,B.iS)],n),B.ah,B.ax,B.aj,B.az))
+if(m.ghh()===2)s.push(A.iE(A.a([A.cW(l,new A.a5X(m),l,B.N4),A.cW(l,new A.a5Y(m),l,B.MV),A.cW(l,new A.a5Z(m),l,B.MK),A.cW(l,new A.a6_(m),l,B.iR),A.cW(l,new A.a60(m),l,B.iS)],n),B.ah,B.ax,B.aj,B.az))
 return A.iE(s,B.ah,B.ax,B.aj,B.az)}}
 A.a69.prototype={
 $0(){var s=A.qM(J.aU(this.b.a,"selectedTerminal"))
@@ -71342,7 +71342,7 @@ case 2:b.Iq("StringList","gateNumbers",q.d)
 return A.S(null,r)}})
 return A.T($async$ta,r)},
 O(a){var s=null
-return A.ajA(A.agZ(B.i,2,B.bx,A.pc(A.a([B.N0,A.aeE(s,s,B.cs,s,s,!0,s,B.Jc,B.b5,s,s,B.aB,B.aV)],t.F),B.ah,B.eg,B.aj,B.ac)),B.i,new A.wV(this.d,s),new A.rU(new A.a7Z(this),s))}}
+return A.ajA(A.agZ(B.i,2,B.bx,A.pc(A.a([B.MQ,A.aeE(s,s,B.cs,s,s,!0,s,B.Jc,B.b5,s,s,B.aB,B.aV)],t.F),B.ah,B.eg,B.aj,B.ac)),B.i,new A.wV(this.d,s),new A.rU(new A.a7Z(this),s))}}
 A.a7X.prototype={
 $0(){this.a.d=this.b},
 $S:0}
@@ -71410,7 +71410,7 @@ $0(){A.Q8(this.a)},
 $S:0}
 A.abn.prototype={
 $1(a){var s=null
-return new A.nZ(new A.f7(B.AO,A.iE(A.a([A.jf(this.a,B.KK),A.jf(this.b,s),B.iI,A.aeT(B.MQ,s,new A.abm(a),s)],t.F),B.ah,B.ax,B.eh,B.az),s),s)},
+return new A.nZ(new A.f7(B.AO,A.iE(A.a([A.jf(this.a,B.KK),A.jf(this.b,s),B.iI,A.aeT(B.MR,s,new A.abm(a),s)],t.F),B.ah,B.ax,B.eh,B.az),s),s)},
 $S:432}
 A.abm.prototype={
 $0(){A.ce(this.a,!1).eV()},
@@ -71476,7 +71476,7 @@ $S:27}
 A.wV.prototype={
 an(){return new A.Og(B.j)}}
 A.Og.prototype={
-O(a){var s=this,r=t.F,q=A.pc(A.a([B.N1,B.MT,A.ak6(new A.aam(s),s.d)],r),B.ah,B.eg,B.aj,null),p=s.a.c,o=A.a_(p).h("ak<1,i>")
+O(a){var s=this,r=t.F,q=A.pc(A.a([B.N1,B.MU,A.ak6(new A.aam(s),s.d)],r),B.ah,B.eg,B.aj,null),p=s.a.c,o=A.a_(p).h("ak<1,i>")
 return A.iE(A.a([q,A.ajK(A.pc(A.a3(new A.ak(p,new A.aan(s),o),!0,o.h("aD.E")),B.ah,B.hO,B.aj,null),B.T)],r),B.ah,B.ax,B.aj,B.az)}}
 A.aam.prototype={
 $1(a){var s=this.a
@@ -74269,9 +74269,9 @@ B.B8=new A.fr(7)
 B.kM=new A.fr(8)
 B.l9=A.a(s([B.B4,B.B5,B.B6,B.D,B.a7,B.B7,B.h7,B.B8,B.kM]),A.ae("u<fr>"))
 B.ML=new A.bA("T1",null,null,null,null)
-B.MZ=new A.bA("Con",null,null,null,null)
-B.MR=new A.bA("T2",null,null,null,null)
-B.CN=A.a(s([B.ML,B.MZ,B.MR]),t.F)
+B.N_=new A.bA("Con",null,null,null,null)
+B.MS=new A.bA("T2",null,null,null,null)
+B.CN=A.a(s([B.ML,B.N_,B.MS]),t.F)
 B.CO=A.a(s(["click","scroll"]),t.s)
 B.D2=A.a(s([]),t.QP)
 B.D4=A.a(s([]),t.sq)
@@ -75882,19 +75882,19 @@ B.MM=new A.bA("30~41",null,null,null,null)
 B.MN=new A.bA("1~11",null,null,null,null)
 B.MO=new A.bA("42~50",null,null,null,null)
 B.MP=new A.bA("\ud398\ub9ac \ud56d\uacf5\ud3b8\uc740 \ud604\ud669\uc5d0 \ub098\uc624\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",null,B.iQ,null,null)
-B.MQ=new A.bA("Close",null,null,null,null)
-B.MS=new A.bA("\uc774 \uc571\uc740 Flightradar24 \uc0ac\uc774\ud2b8\ub97c \uc774\uc6a9\ud569\ub2c8\ub2e4.",null,B.eR,null,null)
+B.KW=new A.r(!0,null,null,null,null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.MQ=new A.bA("PBB Assistant for iPhone",null,B.KW,null,null)
+B.MR=new A.bA("Close",null,null,null,null)
+B.MT=new A.bA("\uc774 \uc571\uc740 Flightradar24 \uc0ac\uc774\ud2b8\ub97c \uc774\uc6a9\ud569\ub2c8\ub2e4.",null,B.eR,null,null)
 B.iR=new A.bA("\uc139\ud130\ubcc4 \ub3c4\ucc29\ud3b8",null,null,null,null)
-B.MT=new A.bA("\ud56d\uacf5\uae30 \uc6b4\ud56d \ud604\ud669",null,B.iP,null,null)
-B.MU=new A.bA("248~253",null,null,null,null)
-B.MV=new A.bA("\uc544\uc774\ud3f0 \uc720\uc800\ub97c \uc704\ud55c \uc6f9\uc571\uc785\ub2c8\ub2e4. \uc548\ub4dc\ub85c\uc774\ub4dc\ud3f0 \uc774\uc6a9\uc790\ub294 \uc804\uc6a9\uc571\uc744 \uc774\uc6a9\ud574\uc8fc\uc138\uc694",null,B.iQ,null,null)
-B.KW=new A.r(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.MW=new A.bA("\ud5c8\uc6a9\ub41c \uc77c\uc77c \ud2b8\ub798\ud53d\ub7c9\uc744 \ucd08\uacfc\uc2dc \uc571\uc774 \uc791\ub3d9\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",null,B.KW,null,null)
-B.MX=new A.bA("115~119",null,null,null,null)
-B.MY=new A.bA("   made by Park C.G",null,null,null,null)
-B.N_=new A.bA("(http://apis.data.go.kr/B551177)",null,B.eR,null,null)
-B.KX=new A.r(!0,null,null,null,null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.N0=new A.bA("PBB Assistant",null,B.KX,null,null)
+B.MU=new A.bA("\ud56d\uacf5\uae30 \uc6b4\ud56d \ud604\ud669",null,B.iP,null,null)
+B.MV=new A.bA("248~253",null,null,null,null)
+B.MW=new A.bA("\uc544\uc774\ud3f0 \uc720\uc800\ub97c \uc704\ud55c \uc6f9\uc571\uc785\ub2c8\ub2e4. \uc548\ub4dc\ub85c\uc774\ub4dc\ud3f0 \uc774\uc6a9\uc790\ub294 \uc804\uc6a9\uc571\uc744 \uc774\uc6a9\ud574\uc8fc\uc138\uc694",null,B.iQ,null,null)
+B.KX=new A.r(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.MX=new A.bA("\ud5c8\uc6a9\ub41c \uc77c\uc77c \ud2b8\ub798\ud53d\ub7c9\uc744 \ucd08\uacfc\uc2dc \uc571\uc774 \uc791\ub3d9\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",null,B.KX,null,null)
+B.MY=new A.bA("115~119",null,null,null,null)
+B.MZ=new A.bA("   made by Park C.G",null,null,null,null)
+B.N0=new A.bA("(http://apis.data.go.kr/B551177)",null,B.eR,null,null)
 B.N1=new A.bA("           ",null,B.iP,null,null)
 B.N2=new A.bA("\uc774 \uc571\uc740 \uc778\ucc9c \uad6d\uc81c \uacf5\ud56d \uacf5\uc0ac\uc758 \uc8fc\uac04 \uc6b4\ud56d \ud604\ud669 \uc870\ud68c \uc11c\ube44\uc2a4 \ubc0f \uc5ec\uac1d\uae30 \uc6b4\ud56d \ud604\ud669 \uc870\ud68c \uc11c\ube44\uc2a4\ub97c \uc774\uc6a9\ud569\ub2c8\ub2e4.",null,B.eR,null,null)
 B.N3=new A.bA("26~28",null,null,null,null)
