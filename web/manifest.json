@@ -1,6 +1,6 @@
 {
-    "name": "iphone2",
-    "short_name": "iphone2",
+    "name": "pop_iphone",
+    "short_name": "pop_iphone",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
