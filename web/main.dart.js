@@ -97473,7 +97473,7 @@ $.aFh=A.a(["126","128","130","127","129","131","132"],t.s)
 $.aGl=A.a(["208","209","210","211","212","213","214","215","216","217","218","219","220","221","222","224"],t.s)
 $.aGm=A.a(["225","231","232","233","245","246","247","234","235","236","238","239","241","242","243"],t.s)
 $.aGn=A.a(["248","249","250","251","252","253"],t.s)
-$.aGo=A.a(["254","255","256","266","267","268","275257","258","260","261","263","264","265"],t.s)
+$.aGo=A.a(["254","255","256","266","267","268","275","257","258","260","261","263","264","265"],t.s)
 $.aGp=A.a(["275","276","277","278","279","280","281","282","283","284","285","286","287","288","289","290","291"],t.s)
 $.azn="http://apis.data.go.kr/B551177/StatusOfPassengerFlightsDSOdp/getPassengerArrivalsDSOdp?serviceKey=MEe%2BYrb0Czr96iJqzFpv6cnx1MqVUN2fjmmvGa0brG5NDmbKe9X12YohAMZURueaAUF4cV6koqwM3B72gmWCAA%3D%3D&type=json"
 $.azo="http://apis.data.go.kr/B551177/StatusOfPassengerFlightsDSOdp/getPassengerDeparturesDSOdp?serviceKey=MEe%2BYrb0Czr96iJqzFpv6cnx1MqVUN2fjmmvGa0brG5NDmbKe9X12YohAMZURueaAUF4cV6koqwM3B72gmWCAA%3D%3D&type=json"
